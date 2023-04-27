@@ -1,5 +1,1 @@
-<html>
-	<head>
-		Hello!
-	</head>
-</html>
+Blog
